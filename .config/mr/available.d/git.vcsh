@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/git.git]
+checkout = vcsh clone -b main 'git@github.com:longwdl/vcsh_git.git' git

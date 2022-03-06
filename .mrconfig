@@ -1,0 +1,3 @@
+[DEFAULT]
+jobs = 3
+include = cat "$HOME/.config/mr/config.d"/* 2>/dev/null || true

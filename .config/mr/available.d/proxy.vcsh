@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/proxy.git]
+checkout = vcsh clone -b main 'git@github.com:longwdl/vcsh_proxy.git' proxy

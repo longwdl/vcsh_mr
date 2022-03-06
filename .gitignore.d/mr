@@ -1,0 +1,9 @@
+*
+!.config/mr/available.d/*
+!.config/mr/config.d/*
+!.mrconfig
+!.gitignore.d/mr
+!.LICENSES.d/mr
+!.README.d/mr.md
+.config/mr/available.d/sec_*
+.config/mr/config.d/sec_*
