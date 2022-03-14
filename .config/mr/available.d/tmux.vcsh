@@ -2,4 +2,4 @@
 checkout = git clone --depth=1 'https://github.com/tmux-plugins/tpm.git' tpm
 
 [$HOME/.config/vcsh/repo.d/tmux.git]
-checkout = vcsh clone -b main 'git@github.com:longwdl/vcsh_tmux.git' tmux
+checkout = vcsh clone -b main 'https://github.com/longwdl/vcsh_tmux.git' tmux

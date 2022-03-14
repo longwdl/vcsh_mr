@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/pip.git]
-checkout = vcsh clone -b main 'git@github.com:longwdl/vcsh_pip.git' pip
+checkout = vcsh clone -b main 'https://github.com/longwdl/vcsh_pip.git' pip
