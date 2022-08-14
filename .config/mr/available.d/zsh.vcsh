@@ -1,5 +1,14 @@
 [$HOME/.oh-my-zsh]
 checkout = git clone --depth=1 'https://github.com/ohmyzsh/ohmyzsh.git' .oh-my-zsh
 
+[$HOME/.zcustom/themes/powerlevel10k]
+checkout = git clone --depth=1 https://github.com/romkatv/powerlevel10k.git powerlevel10k
+
+[$HOME/.zcustom/plugins/zsh-autosuggestions]
+checkout = git clone --depth=1 https://github.com/zsh-users/zsh-autosuggestions zsh-autosuggestions
+
+[$HOME/.zcustom/plugins/zsh-syntax-highlighting]
+checkout = git clone --depth=1 https://github.com/zsh-users/zsh-syntax-highlighting.git zsh-syntax-highlighting
+
 [$HOME/.config/vcsh/repo.d/zsh.git]
 checkout = vcsh clone -b main 'https://github.com/longwdl/vcsh_zsh.git' zsh
