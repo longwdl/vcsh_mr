@@ -21,7 +21,7 @@ brew install git vcsh
 ### Bootstrapping
 
 ```sh
-vcsh clone -b main https://github.com/longwdl/vcsh-mr.git mr
+vcsh clone -b main https://github.com/longwdl/vcsh_mr mr
 mr update
 ```
 
