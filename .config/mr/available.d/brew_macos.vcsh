@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/brew.git]
+checkout = vcsh clone -b main 'https://github.com/longwdl/vcsh_brew_macos.git' brew
